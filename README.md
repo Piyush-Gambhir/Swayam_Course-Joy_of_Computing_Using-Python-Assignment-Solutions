@@ -1,1 +1,1 @@
-# Swayam Course - Joy of Cumputing Using Python - Solutions
+# Swayam Course - Joy of Computing Using Python - Assignment Solutions
